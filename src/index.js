@@ -4,5 +4,5 @@ import Heading from './components/heading/heading';
 const helloWorld = new HelloWorldButton();
 const heading = new Heading();
 
-helloWorld.render();
 heading.render();
+helloWorld.render();
